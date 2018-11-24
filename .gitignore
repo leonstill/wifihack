@@ -1,2 +1,4 @@
 **/node_modules
 *.tgz
+logtamper_v1_1
+.vscode
